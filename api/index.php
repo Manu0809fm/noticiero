@@ -102,6 +102,10 @@
                 ?>
               </p>
             </div>
+            </div>
+            <div style="text-align:center; background:#eee; padding:10px;">
+            <img src="imagenes/nacional.png" width="200" alt="Logo centrado">
+            </div>
           </div>
         </div>
       </div>
@@ -135,6 +139,9 @@
                 ?>
               </p>
             </div>
+            <div style="text-align:center; background:#eee; padding:10px;">
+            <img src="imagenes/economia.png" width="200" alt="Logo centrado">
+            </div>
           </div>
         </div>
         <div class="col-md-6">
@@ -158,6 +165,9 @@
                   echo $opinion["resumen"];
                 ?>
               </p>
+            </div>
+            <div style="text-align:center; background:#eee; padding:10px;">
+            <img src="imagenes/opinion.png" width="200" alt="Logo centrado">
             </div>
           </div>
         </div>
@@ -192,6 +202,9 @@
                 ?>
               </p>
             </div>
+            <div style="text-align:center; background:#eee; padding:10px;">
+            <img src="imagenes/tecnologia.png" width="200" alt="Logo centrado">
+            </div>
           </div>
         </div>
         <div class="col-md-6">
@@ -215,6 +228,9 @@
                   echo $ciencia["resumen"];
                 ?>
               </p>
+            </div>
+            <div style="text-align:center; background:#eee; padding:10px;">
+            <img src="imagenes/ciencia.png" width="200" alt="Logo centrado">
             </div>
           </div>
         </div>
