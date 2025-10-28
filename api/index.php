@@ -75,6 +75,9 @@
                 ?>
               </p>
             </div>
+            <div style="text-align:center; background:#eee; padding:10px;">
+            <img src="imagenes/internacional.png" width="200" alt="Logo centrado">
+            </div>
           </div>
         </div>
         <div class="col-md-6">
